@@ -4,9 +4,9 @@ This repo contains the code from the CS61A/DATAC88C Fall 2024 first lecture demo
 It contains code to transcribe the first shrek movie, to manipulate the transcribed text (which is included), and automate the process of making silly clips out of the movie. 
 It also has a mini demo at the end that showcases a simple drawing canvas.
 
-The code file is called shrek.ipynb.
+The code file is called ```shrek.ipynb.```
 
-This is a_ jupyter notebook _file! You can view and run it using a program called Jupyter. Google Colab also allows you to view and edit jupyter notebooks.
+This is a <em>jupyter notebook</em> file! You can view and run it using a program called Jupyter. Google Colab also allows you to view and edit jupyter notebooks.
 
 you will probably have to install a few things (like jupyter, and ffmpeg) before this code will work. 
 
