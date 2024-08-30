@@ -6,7 +6,9 @@ It also has a mini demo at the end that showcases a simple drawing canvas.
 
 The code file is called ```shrek.ipynb.```
 
-This is a <em>jupyter notebook</em> file! You can view and run it using a program called Jupyter. Google Colab also allows you to view and edit jupyter notebooks.
+This is a <em>jupyter notebook</em> file! It allows you to run Python code in blocks (rather than all at once) and add lots of lil text notes around those blocks, which is useful for a demo or tutorial.
+
+You can view and run Jupyter notebooks using a program called Jupyter. Google Colab also allows you to view and edit jupyter notebooks.
 
 you will probably have to install a few things (like jupyter, and ffmpeg) before this code will work. 
 
