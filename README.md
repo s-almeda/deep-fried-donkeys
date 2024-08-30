@@ -16,7 +16,7 @@ If you use pip to install python packages, you can use the following command to 
 
 ```pip install -r requirements.txt```
 
-and if this makes no sense to you, no worries. come to my office hours and we can chat.... or just come back to this later once you've had more practice with Python and coding in general, and done a starter project or two. If you keep marching on your coding journey, I promise lots of initially bewildering stuff will make way more sense later on!
+and if this makes no sense to you, no worries. come to my office hours and we can chat.... or just come back to this later once you've had more practice with Python and coding in general, and done a starter project or two. If you keep marching on your coding journey, I promise lots of initially bewildering stuff will make way more sense later! 
 
 sparkles,
 
