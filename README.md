@@ -1,5 +1,6 @@
 <h2>Hi!</h2>
 This repo contains the code from the CS61A/DATAC88C Fall 2024 first lecture demo presented by shm.
+
 It contains code to transcribe the first shrek movie, to manipulate the transcribed text (which is included), and automate the process of making silly clips out of the movie. 
 It also has a mini demo at the end that showcases a simple drawing canvas in jupyter. 
 The code is in the file called shrek.ipynb.
